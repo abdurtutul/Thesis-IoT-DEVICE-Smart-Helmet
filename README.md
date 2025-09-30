@@ -77,24 +77,6 @@ A very short, modular example is included in `firmware_example.ino`. This is a s
 
 ---
 
-## Project Structure (suggested GitHub layout)
-```
-/smart-helmet
-├─ README.md
-├─ hardware/
-│  ├─ schematics.png
-│  └─ parts-list.md
-├─ firmware/
-│  └─ firmware_example.ino
-├─ docs/
-│  └─ Thesis_Book_G27.pdf  (license/permission required)
-├─ presentation/
-│  └─ Smart_Helmet_Presentation.pptx
-└─ LICENSE
-```
-
----
-
 ## Licensing & Citation
 If you publish this repo, note the original thesis authors and supervisor. If you want, add an open-source license (MIT/Apache) depending on how you want others to use the code and materials.
 
